@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dylan\\.nuget\\packages\\": {}
+    "C:\\Users\\timho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\TOP2000\\TOP2000\\TOP2000\\TOP2000\\TOP2000.csproj",
+      "projectUniqueName": "C:\\TOP2000\\TOP2000\\TOP2000\\TOP2000\\TOP2000.csproj",
       "projectName": "TOP2000",
-      "projectPath": "G:\\TOP2000\\TOP2000\\TOP2000\\TOP2000\\TOP2000.csproj",
-      "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
-      "outputPath": "G:\\TOP2000\\TOP2000\\TOP2000\\TOP2000\\obj\\",
+      "projectPath": "C:\\TOP2000\\TOP2000\\TOP2000\\TOP2000\\TOP2000.csproj",
+      "packagesPath": "C:\\Users\\timho\\.nuget\\packages\\",
+      "outputPath": "C:\\TOP2000\\TOP2000\\TOP2000\\TOP2000\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\timho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
