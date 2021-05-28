@@ -11,7 +11,6 @@ namespace TOP2000
 {
     public class Program
     {
-        // TIM WAS HIER :D
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
